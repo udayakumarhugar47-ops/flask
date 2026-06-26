@@ -1,0 +1,29 @@
+building logins system
+IMPLEMENT A MINI PROJECT TO CREATE LOGIN system
+
+fkasj cire objects
+
+ undersrtand http method
+
+ create first app
+
+ install flask 
+
+
+
+@app.route('/) represents objects website
+
+
+
+
+
+Login page 
+accept username and password 
+session store 
+redirect welcome page
+logout
+
+
+
+to activate python virtual environment
+venv\Script/acrivate
